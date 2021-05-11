@@ -7,3 +7,4 @@ Git has a mutable index called stage
 Git tracks changes
 Hello Git
 Bye Bye Git
+Creating a new branch called dev
