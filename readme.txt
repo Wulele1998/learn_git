@@ -10,3 +10,4 @@ Bye Bye Git
 Creating a new branch called dev
 My name is Git and I believe I will become your good assistant
 
+Be a warrior, don't be a worrier.
